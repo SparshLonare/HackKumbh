@@ -21,11 +21,11 @@ python manage.py import_medicines
 python manage.py import_local_catalog
 ```
 
-Start the API with `python manage.py runserver`.
+Start the app with `python manage.py runserver`; this serves the frontend and API together at `http://localhost:8000`.
 
 ## Frontend
 
-Follow [frontend/README.md](frontend/README.md) to serve the static frontend locally. Medicine MRP values are catalogue references, not pharmacy quotes or live stock. The pharmacy and lab CSVs are sample data.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for the Docker deployment setup. Medicine MRP values are catalogue references, not pharmacy quotes or live stock. The pharmacy and lab CSVs are sample data.
 
 ## Configuration
 

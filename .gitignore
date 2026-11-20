@@ -14,6 +14,8 @@ __pycache__/
 *.sqlite3
 *.sqlite3-journal
 backend/data/backups/
+backend/staticfiles/
+staticfiles/
 
 # Generated or temporary output
 backend/data/clean/
