@@ -3,8 +3,8 @@ services:
     name: sehatsetu-api
     runtime: python
     plan: free
-    buildCommand: pip install -r backend/requirements.txt && cd backend && DJANGO_DEBUG=true python manage.py collectstatic --noinput
-    startCommand: cd backend && python manage.py migrate --noinput && exec gunicorn config.wsgi:application --bind 0.0.0.0:$PORT --workers ${WEB_CONCURRENCY:-2} --access-logfile - --error-logfile -
+    buildCommand: pip install -r backend/requirements.txt && cd backend && DJANGO_DEBUG=true python clean_data.py && DJANGO_DEBUG=true python manage.py collectstatic --noinput
+    startCommand: cd backend && python manage.py migrate --noinput && python manage.py bootstrap_deployment_data && exec gunicorn config.wsgi:application --bind 0.0.0.0:$PORT --workers ${WEB_CONCURRENCY:-2} --access-logfile - --error-logfile -
     envVars:
       - key: PYTHON_VERSION
         value: "3.12.11"
