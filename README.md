@@ -25,7 +25,7 @@ Start the app with `python manage.py runserver`; this serves the frontend and AP
 
 ## Frontend
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for the Docker deployment setup. Medicine MRP values are catalogue references, not pharmacy quotes or live stock. The pharmacy and lab CSVs are sample data.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for the Render backend and Vercel frontend deployment setup. Medicine MRP values are catalogue references, not pharmacy quotes or live stock. The pharmacy and lab CSVs are sample data.
 
 ## Configuration
 

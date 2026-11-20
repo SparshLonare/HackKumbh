@@ -16,6 +16,7 @@ __pycache__/
 backend/data/backups/
 backend/staticfiles/
 staticfiles/
+vercel-build/
 
 # Generated or temporary output
 backend/data/clean/
