@@ -1,0 +1,36 @@
+name,category,aliases,fasting_required
+Complete Blood Count (CBC),Hematology,CBC; hemogram; complete hemogram,False
+Lipid Profile,Biochemistry,cholesterol profile; lipid panel,True
+HbA1c,Diabetes,glycated hemoglobin; A1c; glycohemoglobin,False
+Fasting Blood Glucose,Diabetes,fasting glucose; FBS; fasting blood sugar,True
+Postprandial Blood Glucose,Diabetes,PPBS; post meal glucose; postprandial sugar,False
+Random Blood Glucose,Diabetes,RBS; random glucose; random blood sugar,False
+"Thyroid Profile (T3, T4, TSH)",Endocrinology,thyroid function test; TFT; T3 T4 TSH,False
+TSH,Endocrinology,thyroid stimulating hormone; thyrotropin,False
+Liver Function Test (LFT),Biochemistry,liver panel; hepatic function panel,True
+Kidney Function Test (KFT),Biochemistry,renal function test; RFT; renal panel,False
+25-OH Vitamin D,Vitamins,vitamin D; 25 hydroxy vitamin D; 25(OH)D,False
+Vitamin B12,Vitamins,cobalamin; serum B12,False
+Urine Routine and Microscopy,Urinalysis,urine R/M; urine routine; urinalysis,False
+Urine Culture and Sensitivity,Microbiology,urine C&S; urine culture,False
+Erythrocyte Sedimentation Rate (ESR),Hematology,sed rate; ESR,False
+C-Reactive Protein (CRP),Immunology,CRP; quantitative CRP,False
+Blood Group and Rh Type,Hematology,ABO grouping; blood group; Rh factor,False
+Serum Electrolytes,Biochemistry,electrolyte panel; sodium potassium chloride,False
+Serum Calcium,Biochemistry,calcium; total calcium,False
+Serum Uric Acid,Biochemistry,uric acid; urate,False
+Iron Studies,Biochemistry,iron profile; serum iron and TIBC,True
+Ferritin,Biochemistry,serum ferritin; iron storage test,False
+Reticulocyte Count,Hematology,retic count; reticulocytes,False
+Peripheral Blood Smear,Hematology,PBS; blood film; peripheral smear,False
+Prothrombin Time and INR,Coagulation,PT INR; prothrombin time,False
+Activated Partial Thromboplastin Time,Coagulation,aPTT; PTT,False
+Dengue NS1 Antigen,Serology,NS1; dengue antigen,False
+Dengue IgM and IgG,Serology,dengue antibodies; dengue serology,False
+Malaria Antigen,Serology,malaria rapid test; malaria parasite antigen,False
+Widal Test,Serology,typhoid test; Widal slide test,False
+Hepatitis B Surface Antigen,Serology,HBsAg; hepatitis B screen,False
+Anti-HCV Antibody,Serology,HCV antibody; hepatitis C screen,False
+HIV 1 and 2 Screening,Serology,HIV test; HIV 1/2; HIV screening,False
+Beta-hCG,Hormones,beta HCG; quantitative pregnancy test; serum pregnancy test,False
+Stool Routine Examination,Stool Analysis,stool R/M; stool microscopy,False

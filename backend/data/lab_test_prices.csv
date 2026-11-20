@@ -1,0 +1,246 @@
+lab_name,test_name,price,report_time_hours
+Orange City Diagnostics - Sitabuldi,Complete Blood Count (CBC),255,6
+Central Pathology Centre - Sadar,Complete Blood Count (CBC),265,6
+Dharampeth Clinical Laboratory,Complete Blood Count (CBC),290,8
+Mahal Clinical Diagnostics,Complete Blood Count (CBC),300,5
+Nandanvan Health Labs,Complete Blood Count (CBC),310,7
+South Nagpur Diagnostic Services,Complete Blood Count (CBC),335,5
+Ajni Reference Laboratory,Complete Blood Count (CBC),345,7
+Orange City Diagnostics - Sitabuldi,Lipid Profile,550,8
+Central Pathology Centre - Sadar,Lipid Profile,580,8
+Dharampeth Clinical Laboratory,Lipid Profile,625,10
+Mahal Clinical Diagnostics,Lipid Profile,650,7
+Nandanvan Health Labs,Lipid Profile,670,9
+South Nagpur Diagnostic Services,Lipid Profile,720,7
+Ajni Reference Laboratory,Lipid Profile,745,9
+Orange City Diagnostics - Sitabuldi,HbA1c,380,8
+Central Pathology Centre - Sadar,HbA1c,400,8
+Dharampeth Clinical Laboratory,HbA1c,435,10
+Mahal Clinical Diagnostics,HbA1c,450,7
+Nandanvan Health Labs,HbA1c,465,9
+South Nagpur Diagnostic Services,HbA1c,500,7
+Ajni Reference Laboratory,HbA1c,520,9
+Orange City Diagnostics - Sitabuldi,Fasting Blood Glucose,110,3
+Central Pathology Centre - Sadar,Fasting Blood Glucose,115,3
+Dharampeth Clinical Laboratory,Fasting Blood Glucose,125,4
+Mahal Clinical Diagnostics,Fasting Blood Glucose,130,3
+Nandanvan Health Labs,Fasting Blood Glucose,135,3
+South Nagpur Diagnostic Services,Fasting Blood Glucose,145,3
+Ajni Reference Laboratory,Fasting Blood Glucose,150,3
+Orange City Diagnostics - Sitabuldi,Postprandial Blood Glucose,110,3
+Central Pathology Centre - Sadar,Postprandial Blood Glucose,115,3
+Dharampeth Clinical Laboratory,Postprandial Blood Glucose,125,4
+Mahal Clinical Diagnostics,Postprandial Blood Glucose,130,3
+Nandanvan Health Labs,Postprandial Blood Glucose,135,3
+South Nagpur Diagnostic Services,Postprandial Blood Glucose,145,3
+Ajni Reference Laboratory,Postprandial Blood Glucose,150,3
+Orange City Diagnostics - Sitabuldi,Random Blood Glucose,100,3
+Central Pathology Centre - Sadar,Random Blood Glucose,105,3
+Dharampeth Clinical Laboratory,Random Blood Glucose,115,4
+Mahal Clinical Diagnostics,Random Blood Glucose,120,3
+Nandanvan Health Labs,Random Blood Glucose,125,3
+South Nagpur Diagnostic Services,Random Blood Glucose,135,3
+Ajni Reference Laboratory,Random Blood Glucose,140,3
+Orange City Diagnostics - Sitabuldi,"Thyroid Profile (T3, T4, TSH)",510,8
+Central Pathology Centre - Sadar,"Thyroid Profile (T3, T4, TSH)",535,8
+Dharampeth Clinical Laboratory,"Thyroid Profile (T3, T4, TSH)",580,10
+Mahal Clinical Diagnostics,"Thyroid Profile (T3, T4, TSH)",600,7
+Nandanvan Health Labs,"Thyroid Profile (T3, T4, TSH)",620,9
+South Nagpur Diagnostic Services,"Thyroid Profile (T3, T4, TSH)",665,7
+Ajni Reference Laboratory,"Thyroid Profile (T3, T4, TSH)",690,9
+Orange City Diagnostics - Sitabuldi,TSH,210,8
+Central Pathology Centre - Sadar,TSH,225,8
+Dharampeth Clinical Laboratory,TSH,240,10
+Mahal Clinical Diagnostics,TSH,250,7
+Nandanvan Health Labs,TSH,260,9
+South Nagpur Diagnostic Services,TSH,280,7
+Ajni Reference Laboratory,TSH,290,9
+Orange City Diagnostics - Sitabuldi,Liver Function Test (LFT),550,8
+Central Pathology Centre - Sadar,Liver Function Test (LFT),580,8
+Dharampeth Clinical Laboratory,Liver Function Test (LFT),625,10
+Mahal Clinical Diagnostics,Liver Function Test (LFT),650,7
+Nandanvan Health Labs,Liver Function Test (LFT),670,9
+South Nagpur Diagnostic Services,Liver Function Test (LFT),720,7
+Ajni Reference Laboratory,Liver Function Test (LFT),745,9
+Orange City Diagnostics - Sitabuldi,Kidney Function Test (KFT),550,8
+Central Pathology Centre - Sadar,Kidney Function Test (KFT),580,8
+Dharampeth Clinical Laboratory,Kidney Function Test (KFT),625,10
+Mahal Clinical Diagnostics,Kidney Function Test (KFT),650,7
+Nandanvan Health Labs,Kidney Function Test (KFT),670,9
+South Nagpur Diagnostic Services,Kidney Function Test (KFT),720,7
+Ajni Reference Laboratory,Kidney Function Test (KFT),745,9
+Orange City Diagnostics - Sitabuldi,25-OH Vitamin D,1530,24
+Central Pathology Centre - Sadar,25-OH Vitamin D,1605,24
+Dharampeth Clinical Laboratory,25-OH Vitamin D,1735,30
+Mahal Clinical Diagnostics,25-OH Vitamin D,1800,22
+Nandanvan Health Labs,25-OH Vitamin D,1860,26
+South Nagpur Diagnostic Services,25-OH Vitamin D,2000,20
+Ajni Reference Laboratory,25-OH Vitamin D,2070,28
+Orange City Diagnostics - Sitabuldi,Vitamin B12,765,24
+Central Pathology Centre - Sadar,Vitamin B12,800,24
+Dharampeth Clinical Laboratory,Vitamin B12,870,30
+Mahal Clinical Diagnostics,Vitamin B12,900,22
+Nandanvan Health Labs,Vitamin B12,930,26
+South Nagpur Diagnostic Services,Vitamin B12,1000,20
+Ajni Reference Laboratory,Vitamin B12,1035,28
+Orange City Diagnostics - Sitabuldi,Urine Routine and Microscopy,155,6
+Central Pathology Centre - Sadar,Urine Routine and Microscopy,160,6
+Dharampeth Clinical Laboratory,Urine Routine and Microscopy,175,8
+Mahal Clinical Diagnostics,Urine Routine and Microscopy,180,5
+Nandanvan Health Labs,Urine Routine and Microscopy,185,7
+South Nagpur Diagnostic Services,Urine Routine and Microscopy,200,5
+Ajni Reference Laboratory,Urine Routine and Microscopy,205,7
+Orange City Diagnostics - Sitabuldi,Urine Culture and Sensitivity,510,48
+Central Pathology Centre - Sadar,Urine Culture and Sensitivity,535,48
+Dharampeth Clinical Laboratory,Urine Culture and Sensitivity,580,60
+Mahal Clinical Diagnostics,Urine Culture and Sensitivity,600,43
+Nandanvan Health Labs,Urine Culture and Sensitivity,620,53
+South Nagpur Diagnostic Services,Urine Culture and Sensitivity,665,41
+Ajni Reference Laboratory,Urine Culture and Sensitivity,690,55
+Orange City Diagnostics - Sitabuldi,Erythrocyte Sedimentation Rate (ESR),155,6
+Central Pathology Centre - Sadar,Erythrocyte Sedimentation Rate (ESR),160,6
+Dharampeth Clinical Laboratory,Erythrocyte Sedimentation Rate (ESR),175,8
+Mahal Clinical Diagnostics,Erythrocyte Sedimentation Rate (ESR),180,5
+Nandanvan Health Labs,Erythrocyte Sedimentation Rate (ESR),185,7
+South Nagpur Diagnostic Services,Erythrocyte Sedimentation Rate (ESR),200,5
+Ajni Reference Laboratory,Erythrocyte Sedimentation Rate (ESR),205,7
+Orange City Diagnostics - Sitabuldi,C-Reactive Protein (CRP),425,8
+Central Pathology Centre - Sadar,C-Reactive Protein (CRP),445,8
+Dharampeth Clinical Laboratory,C-Reactive Protein (CRP),480,10
+Mahal Clinical Diagnostics,C-Reactive Protein (CRP),500,7
+Nandanvan Health Labs,C-Reactive Protein (CRP),515,9
+South Nagpur Diagnostic Services,C-Reactive Protein (CRP),555,7
+Ajni Reference Laboratory,C-Reactive Protein (CRP),575,9
+Orange City Diagnostics - Sitabuldi,Blood Group and Rh Type,135,4
+Central Pathology Centre - Sadar,Blood Group and Rh Type,145,4
+Dharampeth Clinical Laboratory,Blood Group and Rh Type,155,5
+Mahal Clinical Diagnostics,Blood Group and Rh Type,160,4
+Nandanvan Health Labs,Blood Group and Rh Type,165,4
+South Nagpur Diagnostic Services,Blood Group and Rh Type,180,3
+Ajni Reference Laboratory,Blood Group and Rh Type,185,5
+Orange City Diagnostics - Sitabuldi,Serum Electrolytes,425,6
+Central Pathology Centre - Sadar,Serum Electrolytes,445,6
+Dharampeth Clinical Laboratory,Serum Electrolytes,480,8
+Mahal Clinical Diagnostics,Serum Electrolytes,500,5
+Nandanvan Health Labs,Serum Electrolytes,515,7
+South Nagpur Diagnostic Services,Serum Electrolytes,555,5
+Ajni Reference Laboratory,Serum Electrolytes,575,7
+Orange City Diagnostics - Sitabuldi,Serum Calcium,185,6
+Central Pathology Centre - Sadar,Serum Calcium,195,6
+Dharampeth Clinical Laboratory,Serum Calcium,210,8
+Mahal Clinical Diagnostics,Serum Calcium,220,5
+Nandanvan Health Labs,Serum Calcium,230,7
+South Nagpur Diagnostic Services,Serum Calcium,245,5
+Ajni Reference Laboratory,Serum Calcium,255,7
+Orange City Diagnostics - Sitabuldi,Serum Uric Acid,185,6
+Central Pathology Centre - Sadar,Serum Uric Acid,195,6
+Dharampeth Clinical Laboratory,Serum Uric Acid,210,8
+Mahal Clinical Diagnostics,Serum Uric Acid,220,5
+Nandanvan Health Labs,Serum Uric Acid,230,7
+South Nagpur Diagnostic Services,Serum Uric Acid,245,5
+Ajni Reference Laboratory,Serum Uric Acid,255,7
+Orange City Diagnostics - Sitabuldi,Iron Studies,595,12
+Central Pathology Centre - Sadar,Iron Studies,625,12
+Dharampeth Clinical Laboratory,Iron Studies,675,15
+Mahal Clinical Diagnostics,Iron Studies,700,11
+Nandanvan Health Labs,Iron Studies,725,13
+South Nagpur Diagnostic Services,Iron Studies,780,10
+Ajni Reference Laboratory,Iron Studies,805,14
+Orange City Diagnostics - Sitabuldi,Ferritin,510,12
+Central Pathology Centre - Sadar,Ferritin,535,12
+Dharampeth Clinical Laboratory,Ferritin,580,15
+Mahal Clinical Diagnostics,Ferritin,600,11
+Nandanvan Health Labs,Ferritin,620,13
+South Nagpur Diagnostic Services,Ferritin,665,10
+Ajni Reference Laboratory,Ferritin,690,14
+Orange City Diagnostics - Sitabuldi,Reticulocyte Count,210,8
+Central Pathology Centre - Sadar,Reticulocyte Count,225,8
+Dharampeth Clinical Laboratory,Reticulocyte Count,240,10
+Mahal Clinical Diagnostics,Reticulocyte Count,250,7
+Nandanvan Health Labs,Reticulocyte Count,260,9
+South Nagpur Diagnostic Services,Reticulocyte Count,280,7
+Ajni Reference Laboratory,Reticulocyte Count,290,9
+Orange City Diagnostics - Sitabuldi,Peripheral Blood Smear,240,12
+Central Pathology Centre - Sadar,Peripheral Blood Smear,250,12
+Dharampeth Clinical Laboratory,Peripheral Blood Smear,270,15
+Mahal Clinical Diagnostics,Peripheral Blood Smear,280,11
+Nandanvan Health Labs,Peripheral Blood Smear,290,13
+South Nagpur Diagnostic Services,Peripheral Blood Smear,310,10
+Ajni Reference Laboratory,Peripheral Blood Smear,320,14
+Orange City Diagnostics - Sitabuldi,Prothrombin Time and INR,340,6
+Central Pathology Centre - Sadar,Prothrombin Time and INR,355,6
+Dharampeth Clinical Laboratory,Prothrombin Time and INR,385,8
+Mahal Clinical Diagnostics,Prothrombin Time and INR,400,5
+Nandanvan Health Labs,Prothrombin Time and INR,415,7
+South Nagpur Diagnostic Services,Prothrombin Time and INR,445,5
+Ajni Reference Laboratory,Prothrombin Time and INR,460,7
+Orange City Diagnostics - Sitabuldi,Activated Partial Thromboplastin Time,340,6
+Central Pathology Centre - Sadar,Activated Partial Thromboplastin Time,355,6
+Dharampeth Clinical Laboratory,Activated Partial Thromboplastin Time,385,8
+Mahal Clinical Diagnostics,Activated Partial Thromboplastin Time,400,5
+Nandanvan Health Labs,Activated Partial Thromboplastin Time,415,7
+South Nagpur Diagnostic Services,Activated Partial Thromboplastin Time,445,5
+Ajni Reference Laboratory,Activated Partial Thromboplastin Time,460,7
+Orange City Diagnostics - Sitabuldi,Dengue NS1 Antigen,640,12
+Central Pathology Centre - Sadar,Dengue NS1 Antigen,670,12
+Dharampeth Clinical Laboratory,Dengue NS1 Antigen,725,15
+Mahal Clinical Diagnostics,Dengue NS1 Antigen,750,11
+Nandanvan Health Labs,Dengue NS1 Antigen,775,13
+South Nagpur Diagnostic Services,Dengue NS1 Antigen,835,10
+Ajni Reference Laboratory,Dengue NS1 Antigen,860,14
+Orange City Diagnostics - Sitabuldi,Dengue IgM and IgG,720,12
+Central Pathology Centre - Sadar,Dengue IgM and IgG,755,12
+Dharampeth Clinical Laboratory,Dengue IgM and IgG,820,15
+Mahal Clinical Diagnostics,Dengue IgM and IgG,850,11
+Nandanvan Health Labs,Dengue IgM and IgG,880,13
+South Nagpur Diagnostic Services,Dengue IgM and IgG,945,10
+Ajni Reference Laboratory,Dengue IgM and IgG,975,14
+Orange City Diagnostics - Sitabuldi,Malaria Antigen,340,8
+Central Pathology Centre - Sadar,Malaria Antigen,355,8
+Dharampeth Clinical Laboratory,Malaria Antigen,385,10
+Mahal Clinical Diagnostics,Malaria Antigen,400,7
+Nandanvan Health Labs,Malaria Antigen,415,9
+South Nagpur Diagnostic Services,Malaria Antigen,445,7
+Ajni Reference Laboratory,Malaria Antigen,460,9
+Orange City Diagnostics - Sitabuldi,Widal Test,255,12
+Central Pathology Centre - Sadar,Widal Test,265,12
+Dharampeth Clinical Laboratory,Widal Test,290,15
+Mahal Clinical Diagnostics,Widal Test,300,11
+Nandanvan Health Labs,Widal Test,310,13
+South Nagpur Diagnostic Services,Widal Test,335,10
+Ajni Reference Laboratory,Widal Test,345,14
+Orange City Diagnostics - Sitabuldi,Hepatitis B Surface Antigen,300,8
+Central Pathology Centre - Sadar,Hepatitis B Surface Antigen,310,8
+Dharampeth Clinical Laboratory,Hepatitis B Surface Antigen,335,10
+Mahal Clinical Diagnostics,Hepatitis B Surface Antigen,350,7
+Nandanvan Health Labs,Hepatitis B Surface Antigen,360,9
+South Nagpur Diagnostic Services,Hepatitis B Surface Antigen,390,7
+Ajni Reference Laboratory,Hepatitis B Surface Antigen,400,9
+Orange City Diagnostics - Sitabuldi,Anti-HCV Antibody,595,12
+Central Pathology Centre - Sadar,Anti-HCV Antibody,625,12
+Dharampeth Clinical Laboratory,Anti-HCV Antibody,675,15
+Mahal Clinical Diagnostics,Anti-HCV Antibody,700,11
+Nandanvan Health Labs,Anti-HCV Antibody,725,13
+South Nagpur Diagnostic Services,Anti-HCV Antibody,780,10
+Ajni Reference Laboratory,Anti-HCV Antibody,805,14
+Orange City Diagnostics - Sitabuldi,HIV 1 and 2 Screening,425,12
+Central Pathology Centre - Sadar,HIV 1 and 2 Screening,445,12
+Dharampeth Clinical Laboratory,HIV 1 and 2 Screening,480,15
+Mahal Clinical Diagnostics,HIV 1 and 2 Screening,500,11
+Nandanvan Health Labs,HIV 1 and 2 Screening,515,13
+South Nagpur Diagnostic Services,HIV 1 and 2 Screening,555,10
+Ajni Reference Laboratory,HIV 1 and 2 Screening,575,14
+Orange City Diagnostics - Sitabuldi,Beta-hCG,510,12
+Central Pathology Centre - Sadar,Beta-hCG,535,12
+Dharampeth Clinical Laboratory,Beta-hCG,580,15
+Mahal Clinical Diagnostics,Beta-hCG,600,11
+Nandanvan Health Labs,Beta-hCG,620,13
+South Nagpur Diagnostic Services,Beta-hCG,665,10
+Ajni Reference Laboratory,Beta-hCG,690,14
+Orange City Diagnostics - Sitabuldi,Stool Routine Examination,185,8
+Central Pathology Centre - Sadar,Stool Routine Examination,195,8
+Dharampeth Clinical Laboratory,Stool Routine Examination,210,10
+Mahal Clinical Diagnostics,Stool Routine Examination,220,7
+Nandanvan Health Labs,Stool Routine Examination,230,9
+South Nagpur Diagnostic Services,Stool Routine Examination,245,7
+Ajni Reference Laboratory,Stool Routine Examination,255,9

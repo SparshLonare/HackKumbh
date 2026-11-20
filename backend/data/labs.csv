@@ -1,0 +1,8 @@
+name,address,lat,lng,phone,hours,nabl_accredited,home_collection,collection_fee
+Orange City Diagnostics - Sitabuldi,"First Floor, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",21.1455,79.0886,0712-555-0201,Mon-Sat 07:00-20:00; Sun 07:00-13:00,True,True,50
+Central Pathology Centre - Sadar,"Residency Road, Sadar, Nagpur, Maharashtra 440001",21.1575,79.0843,0712-555-0202,Daily 07:00-19:00,True,True,100
+Dharampeth Clinical Laboratory,"North Ambazari Road, Dharampeth, Nagpur, Maharashtra 440010",21.1422,79.0759,0712-555-0203,Mon-Sat 07:30-19:30; Sun 08:00-12:00,False,False,0
+Mahal Clinical Diagnostics,"Gandhi Gate Road, Mahal, Nagpur, Maharashtra 440032",21.1481,79.1028,0712-555-0204,Daily 07:00-18:00,True,True,75
+Nandanvan Health Labs,"Nandanvan Main Road, Nandanvan, Nagpur, Maharashtra 440009",21.1494,79.1279,0712-555-0205,Mon-Sat 07:00-20:00,False,True,150
+South Nagpur Diagnostic Services,"Manish Nagar Main Road, Nagpur, Maharashtra 440015",21.105,79.063,0712-555-0206,Daily 06:30-20:00,True,False,0
+Ajni Reference Laboratory,"Medical Square, Ajni Road, Nagpur, Maharashtra 440003",21.1313,79.092,0712-555-0207,Mon-Sat 07:00-21:00; Sun 07:00-14:00,False,True,125
